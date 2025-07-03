@@ -122,3 +122,8 @@ This project solves these challenges by automatically generating topic-specific 
 - Peer performance comparison
 
 
+### Results:
+![Screenshot 2025-07-03 114244 (1)](https://github.com/user-attachments/assets/343c1d1a-9720-40be-9812-be4365fdc002)
+![Result](https://github.com/user-attachments/assets/3434c780-df39-4e58-ac89-85abfef33fd1)
+
+
